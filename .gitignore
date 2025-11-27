@@ -1,0 +1,41 @@
+# OS and system files
+.DS_Store
+Thumbs.db
+NTUSER.DAT*
+ntuser.dat*
+.dbus-keyrings/
+.p2/
+
+# IDE and editor
+.vscode/
+.eclipse/
+.idlerc/
+
+# User directories
+AppData/
+Downloads/
+Favorites/
+Links/
+Music/
+Contacts/
+Saved Games/
+Searches/
+Videos/
+Projects/
+
+# Development
+node_modules/
+package-lock.json
+
+# Logs
+.bash_history
+.lesshst
+
+# Misc
+eclipse-workspace/
+eclipse/
+ibisPaint/
+student-record-management/
+.git-for-windows-updater
+.gitconfig
+.matplotlib/
